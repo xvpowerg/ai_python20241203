@@ -17,6 +17,8 @@ pip install flask
 
 pip install line-bot-sdk
 
+pip install --upgrade line-bot-sdk
+
 Line Boot
 
 https://developers.line.biz/en/
